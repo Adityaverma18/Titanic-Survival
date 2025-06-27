@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment & package files
+env/
+venv/
+*.egg-info/
+.Python
+pip-log.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# TensorFlow model output
+model_dir/
+saved_model/
